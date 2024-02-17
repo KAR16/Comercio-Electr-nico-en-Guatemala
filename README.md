@@ -1,2 +1,2 @@
-# Comercio-Electr-nico-en-Guatemala
+# Comercio Electrónico en Guatemala
 Blog informativo acerca del tema.
